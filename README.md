@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Discord Bot<br>👯 I’m looking to collaborate on Danceinterpreter<br>🌱 I’m currently learning C/C++
+🔭 I’m currently working on my Discord Bot<br>👯 I’m looking to collaborate on Danceinterpreter<br>🌱 I’m currently learning Rust
 
 
 ## 🌐 Socials:
