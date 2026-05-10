@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the danceinterpreter<br>
+🔭 I’m currently working on the danceinterpreter-rs<br>
 🌱 I’m currently learning Rust
 
 
